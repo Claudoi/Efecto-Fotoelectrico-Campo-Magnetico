@@ -14,7 +14,7 @@ El desarrollo se ha realizado mediante *notebooks* de Jupyter, utilizando el ker
 ```bash
 .
 ├── efecto_fotoeléctrico_2.ipynb             # Simulación y ajuste del efecto fotoeléctrico
-├── resolucion_problema_campo_magnetico-Claudio.ipynb  # Cálculos para el movimiento de partículas en campos magnéticos
+├── resolucion_problema_campo_magnetico.ipynb  # Cálculos para el movimiento de partículas en campos magnéticos
 ├── calculo_orbitas_modificado.ipynb         # Representación gráfica de órbitas y frecuencias de partículas
 ├── regression.js                             # Módulo JavaScript para regresión lineal
 └── README.md                                 # Este documento
