@@ -7,7 +7,7 @@ Este proyecto corresponde a una actividad grupal desarrollada en el marco de la 
 
 La resolución se ha llevado a cabo mediante notebooks en Jupyter con el kernel de JavaScript (NodeJS) y visualizaciones con Plotly.js.
 
----
+⸻
 
 ## 📂 Archivos incluidos
 
@@ -18,4 +18,49 @@ La resolución se ha llevado a cabo mediante notebooks en Jupyter con el kernel 
 ├── ejercicio premium.ipynb                         # Amperaje vs intensidad de la luz
 ├── resolucion_problema_campo_magnetico.ipynb      # Cálculo para electrón y antineutrón en campo B
 ├── calculo_orbitas_modificado.ipynb               # Representación gráfica de órbitas
+```
+
+⸻
+
+## 🎯 Objetivos
+
+✅ Estimar la constante de Planck (ℎ) y la función de trabajo (ϕ)
+✅ Validar experimentalmente la relación entre frecuencia y voltaje de frenado
+✅ Simular trayectorias de partículas en campos magnéticos
+✅ Desarrollar habilidades en programación científica con JavaScript
+
+⸻
+
+## ⚙️ Requisitos
+	•	💻 nteract (editor de notebooks con soporte nativo para JavaScript)
+	•	🌐 Applet de PhET - Efecto Fotoeléctrico
+	•	📦 regression.js (colocar en el mismo directorio)
+	•	🧠 Conocimientos básicos de física y álgebra lineal
+
+⸻
+
+## 🚀 ¿Cómo usar este repositorio?
+	1.	📥 Clona o descarga este repositorio en tu ordenador.
+	2.	🟢 Abre los notebooks con nteract y selecciona el kernel JavaScript (Node.js).
+	3.	📁 Asegúrate de tener regression.js en el mismo directorio.
+	4.	▶️ Ejecuta cada celda paso a paso:
+	•	Recolección de datos simulados con el applet.
+	•	Cálculo y ajuste lineal con regresión.
+	•	Cálculo de constantes físicas.
+	•	Representación gráfica con Plotly.
+
+⸻
+
+## 📊 Gráficas con Plotly
+
+Las visualizaciones interactivas muestran:
+	•	🔷 Datos experimentales (voltaje vs. frecuencia)
+	•	📈 Ajustes lineales (pendiente = ℎ/e, ordenada = -ϕ/e)
+	•	🔄 Trayectorias de partículas en campos magnéticos
+
+
+⸻
+
+📘 Proyecto basado en el simulador de la Universidad de Colorado: PhET
+
 
